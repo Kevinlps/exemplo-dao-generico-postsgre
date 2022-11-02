@@ -1,3 +1,3 @@
-export class Entety {
-    id?:number
+export class Entity {
+  id?: number
 }

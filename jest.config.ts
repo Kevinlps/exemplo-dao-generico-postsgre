@@ -1,7 +1,7 @@
-import {Config} from 'jest'
+import { Config } from 'jest'
 
 const config: Config = {
-    preset: 'ts-jest',
+  preset: 'ts-jest',
 }
 
 export default config
